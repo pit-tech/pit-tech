@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pit-tech/its-me/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/pit-tech/pit-tech/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ###
@@ -57,10 +57,10 @@
 ###
 
 <div align="center">
-    <a href="https://www.instagram.com/taldo.andre.nascimento/" target="_blank">
+    <a href="https://www.instagram.com/pit_mb/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     </a>
-    <a href="https://www.linkedin.com/in/andre-dos-santos-nascimento/" target="_blank">
+    <a href="https://www.linkedin.com/in/piter-merlo-bruner/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
 </div>
