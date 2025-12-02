@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pit-tech/pit-tech/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/pit-tech/pit-tech/main/snake.svg" alt="Snake animation" />
 </div>
 
 ###
