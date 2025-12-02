@@ -59,7 +59,7 @@
 
 <div align="center">
   <h3>🎯 Key Expertise</h3>
-  <p>Financial Systems • Fiscal Compliance • ERP Development • API Design<br/>Database Optimization • Microservices • Cloud Infrastructure • Code Quality</p>
+  <p>Financial Systems • Fiscal Compliance • ERP Development • API Design<br/>Database Optimization • System Integration • Banking Solutions • Code Quality & Testing</p>
 </div>
 
 ###
